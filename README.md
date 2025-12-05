@@ -1,1 +1,3 @@
-In this notebook, we will simulate a lot of cool examples in Statistics. Each will come with an **Analytical** solution and its **numerical (Monte Carlo)** solution.
+I wrote all the notebooks myself, no AI involve, to explain the concepts of some Statistics that I found profound. 
+
+Furthermore, I also derive some Machine Learning techniques.
